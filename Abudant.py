@@ -1,1 +1,1 @@
-n = int(input())
+n = print("Hamsavardhini ")
